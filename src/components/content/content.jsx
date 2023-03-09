@@ -5,7 +5,7 @@ function Content() {
     <div>
       <div className="headcontent">
         Discover Digital Art, 
-        Collect and Sell Your Specific NFTs
+        Collect and Sell Your Specific NFTs.
       </div>
       <div className="complete-buton">
           <div className="thebuttons">
